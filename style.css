@@ -1069,3 +1069,7 @@ h4 {
 .boldtext {
     font-weight: bold;
 }
+
+.bigger-icons {
+    font-size: 40px;
+}
